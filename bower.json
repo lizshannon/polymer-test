@@ -1,0 +1,19 @@
+{
+  "name": "polymer-test",
+  "version": "0.0.0",
+  "homepage": "https://github.com/lizshannon/polymer-test",
+  "authors": [
+    "Liz Shannon <liz@lizshannon.ca>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  }
+}
